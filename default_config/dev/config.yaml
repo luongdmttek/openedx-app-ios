@@ -5,9 +5,19 @@ ENVIRONMENT_DISPLAY_NAME: 'Localhost'
 FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
 OAUTH_CLIENT_ID: ''
 
-SSO_BUTTON_TITLE:
-    ar: "الدخول عبر SSO"
-    en: "Sign in with SSO"
+PRE_LOGIN_EXPERIENCE_ENABLED: false
+REGISTRATION_ENABLED: false
+
+APPLE_SIGNIN: true
+
+GOOGLE:
+  ENABLED: true
+  GOOGLE_PLUS_KEY: 'string'
+  CLIENT_ID: 'string'
+
+# SSO_BUTTON_TITLE:
+#     ar: "الدخول عبر SSO"
+#     en: "Sign in with SSO"
 
 
 

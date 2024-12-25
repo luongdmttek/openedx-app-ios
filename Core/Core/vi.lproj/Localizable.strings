@@ -6,153 +6,153 @@
   
 */
 
-"MAINSCREEN.DISCOVERY" = "Discover";
-"MAINSCREEN.DASHBOARD" = "Dashboard";
-"MAINSCREEN.IN_DEVELOPING" = "In developing";
-"MAINSCREEN.PROGRAMS" = "Programs";
-"MAINSCREEN.PROFILE" = "Profile";
-"MAINSCREEN.LEARN" = "Learn";
+"MAINSCREEN.DISCOVERY" = "Khám phá";
+"MAINSCREEN.DASHBOARD" = "bảng điều khiển";
+"MAINSCREEN.IN_DEVELOPING" = "Đang phát triển";
+"MAINSCREEN.PROGRAMS" = "Chương trình";
+"MAINSCREEN.PROFILE" = "Hồ sơ";
+"MAINSCREEN.LEARN" = "Học tập";
 
-"VIEW.SNACKBAR.TRY_AGAIN_BTN" = "Try Again";
+"VIEW.SNACKBAR.TRY_AGAIN_BTN" = "Thử lại";
 
-"ERROR.INVALID_CREDENTIALS" = "Invalid credentials";
-"ERROR.SLOW_OR_NO_INTERNET_CONNECTION" = "Slow or no internet connection";
-"ERROR.NO_CACHED_DATA" = "No cached data for offline mode";
-"ERROR.USER_NOT_ACTIVE" = "User account is not activated. Please activate your account first.";
-"ERROR.UNKNOWN_ERROR" = "Something went wrong";
-"ERROR.WIFI" = "You can only download files over Wi-Fi. You can change this in the settings.";
-"ERROR.AUTHORIZATION_FAILED" = "Authorization failed.";
+"ERROR.INVALID_CREDENTIALS" = "Thông tin không hợp lệ";
+"ERROR.SLOW_OR_NO_INTERNET_CONNECTION" = "Kết nối internet chậm hoặc không có kết nối internet";
+"ERROR.NO_CACHED_DATA" = "Không có dữ liệu được lưu trong bộ nhớ đệm cho chế độ ngoại tuyến";
+"ERROR.USER_NOT_ACTIVE" = "Tài khoản người dùng chưa được kích hoạt. Vui lòng kích hoạt tài khoản của bạn trước.";
+"ERROR.UNKNOWN_ERROR" = "Đã xảy ra lỗi";
+"ERROR.WIFI" = "Bạn chỉ có thể tải xuống tệp qua Wi-Fi. Bạn có thể thay đổi điều này trong cài đặt.";
+"ERROR.AUTHORIZATION_FAILED" = "Ủy quyển thất bại.";
 
-"ERROR.INTERNET.NO_INTERNET_TITLE" = "No internet connection";
-"ERROR.INTERNET.NO_INTERNET_DESCRIPTION" = "Please connect to the internet to view this content.";
+"ERROR.INTERNET.NO_INTERNET_TITLE" = "Không có kết nối Internet";
+"ERROR.INTERNET.NO_INTERNET_DESCRIPTION" = "Vui lòng kết nối internet để xem nội dung này.";
 
-"COURSEWARE.COURSE_CONTENT" = "Course content";
-"COURSEWARE.COURSE_CONTENT_NOT_AVAILABLE" = "This interactive component isn't yet available on mobile.";
-"COURSEWARE.COURSE_UNITS" = "Course units";
-"COURSEWARE.NEXT" = "Next";
-"COURSEWARE.PREVIOUS" = "Prev";
-"COURSEWARE.FINISH" = "Finish";
-"COURSEWARE.GOOD_WORK" = "Good job!";
-"COURSEWARE.BACK_TO_OUTLINE" = "Back to outline";
-"COURSEWARE.SECTION_COMPLETED" = "You've completed “%@”.";
-"COURSEWARE.CONTINUE" = "Continue";
-"COURSEWARE.RESUME" = "Resume";
-"COURSEWARE.RESUME_WITH" = "Resume with:";
-"COURSEWARE.NEXT_SECTION" = "Next section";
+"COURSEWARE.COURSE_CONTENT" = "Nội dung khóa học";
+"COURSEWARE.COURSE_CONTENT_NOT_AVAILABLE" = "Thành phần tương tác này chưa có sẵn trên thiết bị di động.";
+"COURSEWARE.COURSE_UNITS" = "Đơn vị khóa học";
+"COURSEWARE.NEXT" = "Tiếp theo";
+"COURSEWARE.PREVIOUS" = "Trước đó";
+"COURSEWARE.FINISH" = "Hoàn thành";
+"COURSEWARE.GOOD_WORK" = "Làm tốt lắm!";
+"COURSEWARE.BACK_TO_OUTLINE" = "Quay lại phác thảo";
+"COURSEWARE.SECTION_COMPLETED" = "Bạn đã hoàn thành “ %@ ”.";
+"COURSEWARE.CONTINUE" = "Tiếp tục";
+"COURSEWARE.RESUME" = "Bản tóm tắt";
+"COURSEWARE.RESUME_WITH" = "Tiếp tục với:";
+"COURSEWARE.NEXT_SECTION" = "Phần tiếp theo";
 
-"COURSEWARE.NEXT_SECTION_DESCRIPTION_FIRST" = "To proceed with “";
-"COURSEWARE.NEXT_SECTION_DESCRIPTION_LAST" = "” press “Next section”.";
+"COURSEWARE.NEXT_SECTION_DESCRIPTION_FIRST" = "Để tiếp tục với “";
+"COURSEWARE.NEXT_SECTION_DESCRIPTION_LAST" = "” nhấn “Phần tiếp theo”.";
 
-"ERROR.RELOAD" = "Reload";
+"ERROR.RELOAD" = "Tải lại";
 
-"DATE.COURSE_STARTS" = "Course Starts";
-"DATE.COURSE_ENDS" = "Course Ends";
-"DATE.COURSE_ENDED" = "Course Ended";
+"DATE.COURSE_STARTS" = "Khóa học bắt đầu";
+"DATE.COURSE_ENDS" = "Kết thúc khóa học";
+"DATE.COURSE_ENDED" = "Khóa học đã kết thúc";
 
-"DATE.ENDED" = "Ended";
-"DATE.START" = "Start";
-"DATE.STARTED" = "Started";
-"DATE.JUST_NOW" = "Just now";
-"DATE.TODAY" = "Today";
-"DATE.NEXT" = "Next %@";
-"DATE.DAYS_AGO" = "%@ Days Ago";
-"DATE.DUE" = "Due ";
-"DATE.DUE_IN" = "Due in ";
-"DATE.DUE_IN_DAYS" = "Due in %@ Days";
+"DATE.ENDED" = "Đã kết thúc";
+"DATE.START" = "Bắt đầu";
+"DATE.STARTED" = "Đã bắt đầu";
+"DATE.JUST_NOW" = "Vừa rồi";
+"DATE.TODAY" = "Hôm nay";
+"DATE.NEXT" = "Tiếp theo %@";
+"DATE.DAYS_AGO" = "%@ Ngày trước";
+"DATE.DUE" = "Quá hạn ";
+"DATE.DUE_IN" = "Đến hạn ";
+"DATE.DUE_IN_DAYS" = "Đến hạn trong %@ Ngày";
 
-"ALERT.ACCEPT" = "ACCEPT";
-"ALERT.CANCEL" = "CANCEL";
-"ALERT.LOGOUT" = "Log out";
-"ALERT.LEAVE" = "Leave";
-"ALERT.KEEP_EDITING" = "Keep editing";
-"ALERT.DELETE" = "DELETE";
-"ALERT.ADD" = "Add";
-"ALERT.REMOVE" = "Remove";
-"ALERT.CALENDAR_SHIFT_PROMPT_REMOVE_COURSE_CALENDAR"="Remove course calendar";
+"ALERT.ACCEPT" = "CHẤP NHẬN";
+"ALERT.CANCEL" = "HỦY BỎ";
+"ALERT.LOGOUT" = "Đăng xuất";
+"ALERT.LEAVE" = "Rời khỏi";
+"ALERT.KEEP_EDITING" = "Tiếp tục chỉnh sửa";
+"ALERT.DELETE" = "XÓA BỎ";
+"ALERT.ADD" = "Thêm vào";
+"ALERT.REMOVE" = "Di dời";
+"ALERT.CALENDAR_SHIFT_PROMPT_REMOVE_COURSE_CALENDAR" = "Xóa lịch học";
 
-"NO_INTERNET.OFFLINE" = "Offline";
-"NO_INTERNET.DISMISS" = "Dismiss";
-"NO_INTERNET.RELOAD" = "Reload";
+"NO_INTERNET.OFFLINE" = "Ngoại tuyến";
+"NO_INTERNET.DISMISS" = "Loại bỏ";
+"NO_INTERNET.RELOAD" = "Tải lại";
 
-"DATE_FORMAT.MMMM_DD" = "MMMM dd";
-"DATE_FORMAT.MMM_DD_YYYY" = "MMM dd, yyyy";
-"DATE_FORMAT.MMMM_DD_YYYY" = "MMMM dd, yyyy";
+"DATE_FORMAT.MMMM_DD" = "MMMM đ";
+"DATE_FORMAT.MMM_DD_YYYY" = "MMM đ, yyyy";
+"DATE_FORMAT.MMMM_DD_YYYY" = "MMMM đ, yyyy";
 
-"DOWNLOAD_MANAGER.DOWNLOAD" = "Download";
-"DOWNLOAD_MANAGER.DOWNLOADED" = "Downloaded";
-"DOWNLOAD_MANAGER.COMPLETED" = "Completed";
+"DOWNLOAD_MANAGER.DOWNLOAD" = "Tải xuống";
+"DOWNLOAD_MANAGER.DOWNLOADED" = "Đã tải xuống";
+"DOWNLOAD_MANAGER.COMPLETED" = "Hoàn thành";
 
-"SETTINGS.VIDEO_DOWNLOAD_QUALITY_TITLE" = "Video download quality";
-"SETTINGS.DOWNLOAD_QUALITY_AUTO_TITLE" = "Auto";
-"SETTINGS.DOWNLOAD_QUALITY_AUTO_DESCRIPTION" = "Recommended";
+"SETTINGS.VIDEO_DOWNLOAD_QUALITY_TITLE" = "Chất lượng tải xuống video";
+"SETTINGS.DOWNLOAD_QUALITY_AUTO_TITLE" = "Tự động";
+"SETTINGS.DOWNLOAD_QUALITY_AUTO_DESCRIPTION" = "Khuyến khích";
 "SETTINGS.DOWNLOAD_QUALITY_360_TITLE" = "360p";
-"SETTINGS.DOWNLOAD_QUALITY_360_DESCRIPTION" = "Lower data usage";
+"SETTINGS.DOWNLOAD_QUALITY_360_DESCRIPTION" = "Sử dụng dữ liệu thấp hơn";
 "SETTINGS.DOWNLOAD_QUALITY_540_TITLE" = "540p";
 "SETTINGS.DOWNLOAD_QUALITY_720_TITLE" = "720p";
-"SETTINGS.DOWNLOAD_QUALITY_720_DESCRIPTION" = "Best quality";
+"SETTINGS.DOWNLOAD_QUALITY_720_DESCRIPTION" = "Chất lượng tốt nhất";
 
-"DONE" = "Done";
-"VIEW" = "View";
-"BACK" = "Back";
-"OK" = "Ok";
-"CLOSE" = "Close";
+"DONE" = "Xong";
+"VIEW" = "Xem";
+"BACK" = "Mặt sau";
+"OK" = "Được rồi";
+"CLOSE" = "đóng";
 
-"PICKER.SEARCH" = "Search";
-"PICKER.ACCEPT" = "Accept";
+"PICKER.SEARCH" = "Tìm kiếm";
+"PICKER.ACCEPT" = "Chấp nhận";
 
-"WEBVIEW.ALERT.OK" = "Ok";
-"WEBVIEW.ALERT.CANCEL" = "Cancel";
-"WEBVIEW.ALERT.CONTINUE" = "Continue";
+"WEBVIEW.ALERT.OK" = "OK";
+"WEBVIEW.ALERT.CANCEL" = "Hủy bỏ";
+"WEBVIEW.ALERT.CONTINUE" = "Tiếp tục";
 
-"REVIEW.VOTE_TITLE" = "Enjoying Open edX?";
-"REVIEW.VOTE_DESCRIPTION" = "Your feedback matters to us. Would you take a moment to rate the app by tapping a star below? Thanks for your support!";
-"REVIEW.FEEDBACK_TITLE" = "Leave Us Feedback";
-"REVIEW.FEEDBACK_DESCRIPTION" = "We’re sorry to hear your learning experience has had some issues. We appreciate all feedback.";
-"REVIEW.THANKS_FOR_VOTE_TITLE" = "Thank You";
-"REVIEW.THANKS_FOR_VOTE_DESCRIPTION" = "Thank you for sharing your feedback with us. Would you like to share your review of this app with other users on the app store?";
-"REVIEW.THANKS_FOR_FEEDBACK_TITLE" = "Thank You";
-"REVIEW.THANKS_FOR_FEEDBACK_DESCRIPTION" = "We received your feedback and will use it to help improve your learning experience going forward. Thank you for sharing!";
-"REVIEW.BETTER" = "What could have been better?";
-"REVIEW.NOT_NOW" = "Not now";
+"REVIEW.VOTE_TITLE" = "Bạn thích Open edX?";
+"REVIEW.VOTE_DESCRIPTION" = "Phản hồi của bạn quan trọng với chúng tôi. Bạn có thể dành chút thời gian để xếp hạng ứng dụng bằng cách nhấn vào ngôi sao bên dưới không? Cảm ơn sự hỗ trợ của bạn!";
+"REVIEW.FEEDBACK_TITLE" = "Để lại phản hồi cho chúng tôi";
+"REVIEW.FEEDBACK_DESCRIPTION" = "Chúng tôi rất tiếc khi biết rằng trải nghiệm học tập của bạn gặp phải một số vấn đề. Chúng tôi đánh giá cao tất cả các phản hồi.";
+"REVIEW.THANKS_FOR_VOTE_TITLE" = "Cảm ơn";
+"REVIEW.THANKS_FOR_VOTE_DESCRIPTION" = "Cảm ơn bạn đã chia sẻ phản hồi của bạn với chúng tôi. Bạn có muốn chia sẻ đánh giá của mình về ứng dụng này với những người dùng khác trên cửa hàng ứng dụng không?";
+"REVIEW.THANKS_FOR_FEEDBACK_TITLE" = "Cảm ơn";
+"REVIEW.THANKS_FOR_FEEDBACK_DESCRIPTION" = "Chúng tôi đã nhận được phản hồi của bạn và sẽ sử dụng phản hồi đó để giúp cải thiện trải nghiệm học tập của bạn trong tương lai. Cảm ơn bạn đã chia sẻ!";
+"REVIEW.BETTER" = "Điều gì có thể tốt hơn?";
+"REVIEW.NOT_NOW" = "Không phải bây giờ";
 
-"REVIEW.BUTTON.SUBMIT" = "Submit";
-"REVIEW.BUTTON.SHARE_FEEDBACK" = "Share Feedback";
-"REVIEW.BUTTON.RATE_US" = "Rate Us";
-"REVIEW.EMAIL.TITLE" = "Select email client:";
+"REVIEW.BUTTON.SUBMIT" = "Nộp";
+"REVIEW.BUTTON.SHARE_FEEDBACK" = "Chia sẻ phản hồi";
+"REVIEW.BUTTON.RATE_US" = "Đánh giá chúng tôi";
+"REVIEW.EMAIL.TITLE" = "Chọn ứng dụng email:";
 
-"SOCIAL_SIGN_CANCELED" = "The user canceled the sign-in flow.";
+"SOCIAL_SIGN_CANCELED" = "Người dùng đã hủy luồng đăng nhập.";
 
-"SIGN_IN.LOG_IN_BTN" = "Sign in";
-"SIGN_IN.REGISTER_BTN" = "Register";
-"SIGN_IN.LOG_IN_WITH_SSO_BTN" = "Sign in with SSO";
+"SIGN_IN.LOG_IN_BTN" = "Đăng nhập";
+"SIGN_IN.REGISTER_BTN" = "Đăng ký";
+"SIGN_IN.LOG_IN_WITH_SSO_BTN" = "Đăng nhập bằng SSO";
 
-"TOMORROW" = "Tomorrow";
-"YESTERDAY" = "Yesterday";
+"TOMORROW" = "Ngày mai";
+"YESTERDAY" = "Hôm qua";
 
-"OPEN_IN_BROWSER"="View in Safari";
+"OPEN_IN_BROWSER" = "Xem trong Safari";
 
-"COURSE_DATES.RESET_DATE.RESET_DATE_BANNER.BODY" = "Don't worry - shift our suggested schedule to complete past due assignments without losing any progress.";
-"COURSE_DATES.RESET_DATE.RESET_DATE_BANNER.BUTTON" = "Shift due dates";
-"COURSE_DATES.RESET_DATE.RESET_DATE_BANNER.HEADER" = "Missed some deadlines?";
+"COURSE_DATES.RESET_DATE.RESET_DATE_BANNER.BODY" = "Đừng lo lắng - hãy thay đổi lịch trình đề xuất của chúng tôi để hoàn thành các bài tập quá hạn mà không bị mất bất kỳ tiến độ nào.";
+"COURSE_DATES.RESET_DATE.RESET_DATE_BANNER.BUTTON" = "Chuyển ngày đến hạn";
+"COURSE_DATES.RESET_DATE.RESET_DATE_BANNER.HEADER" = "Bỏ lỡ một số thời hạn?";
 
-"COURSE_DATES.RESET_DATE.TAB_INFO_BANNER.BODY" = "We built a suggested schedule to help you stay on track. But don’t worry – it’s flexible so you can learn at your own pace. If you happen to fall behind, you’ll be able to adjust the dates to keep yourself on track.";
+"COURSE_DATES.RESET_DATE.TAB_INFO_BANNER.BODY" = "Chúng tôi đã xây dựng một lịch trình đề xuất để giúp bạn đi đúng hướng. Nhưng đừng lo lắng – nó linh hoạt nên bạn có thể học theo tốc độ của riêng mình. Nếu bạn tình cờ bị tụt lại phía sau, bạn sẽ có thể điều chỉnh ngày tháng để luôn đi đúng hướng.";
 "COURSE_DATES.RESET_DATE.TAB_INFO_BANNER.HEADER" = "";
 
-"COURSE_DATES.RESET_DATE.UPGRADE_TO_COMPLETE_GRADED_BANNER.BODY" = "To complete graded assignments as part of this course, you can upgrade today.";
+"COURSE_DATES.RESET_DATE.UPGRADE_TO_COMPLETE_GRADED_BANNER.BODY" = "Để hoàn thành các bài tập đã chấm điểm trong khóa học này, bạn có thể nâng cấp ngay hôm nay.";
 "COURSE_DATES.RESET_DATE.UPGRADE_TO_COMPLETE_GRADED_BANNER.BUTTON" = "";
 "COURSE_DATES.RESET_DATE.UPGRADE_TO_COMPLETE_GRADED_BANNER.HEADER" = "";
 
-"COURSE_DATES.RESET_DATE.UPGRADE_TO_RESET_BANNER.BODY" = "You are auditing this course, which means that you are unable to participate in graded assignments. It looks like you missed some important deadlines based on our suggested schedule. To complete graded assignments as part of this course and shift the past due assignments into the future, you can upgrade today.";
+"COURSE_DATES.RESET_DATE.UPGRADE_TO_RESET_BANNER.BODY" = "Bạn đang kiểm tra khóa học này, điều đó có nghĩa là bạn không thể tham gia vào các bài tập được chấm điểm. Có vẻ như bạn đã bỏ lỡ một số thời hạn quan trọng dựa trên lịch trình đề xuất của chúng tôi. Để hoàn thành các bài tập đã chấm điểm như một phần của khóa học này và chuyển các bài tập quá hạn sang tương lai, bạn có thể nâng cấp ngay hôm nay.";
 "COURSE_DATES.RESET_DATE.UPGRADE_TO_RESET_BANNER.BUTTON" = "";
 "COURSE_DATES.RESET_DATE.UPGRADE_TO_RESET_BANNER.HEADER" = "";
 
-"COURSE_DATES.RESET_DATE.ERROR_MESSAGE" = "Your dates could not be shifted. Please try again.";
-"COURSE_DATES.RESET_DATE.SUCCESS_MESSAGE" = "Your dates have been successfully shifted.";
-"COURSE_DATES.RESET_DATE.TITLE" = "Course Dates";
+"COURSE_DATES.RESET_DATE.ERROR_MESSAGE" = "Không thể thay đổi ngày của bạn. Vui lòng thử lại.";
+"COURSE_DATES.RESET_DATE.SUCCESS_MESSAGE" = "Ngày của bạn đã được chuyển thành công.";
+"COURSE_DATES.RESET_DATE.TITLE" = "Ngày khóa học";
 
-"COURSE_DATES.TODAY" = "Today";
-"COURSE_DATES.COMPLETED" = "Completed";
-"COURSE_DATES.PAST_DUE" = "Past due";
-"COURSE_DATES.THIS_WEEK" = "This week";
-"COURSE_DATES.NEXT_WEEK" = "Next week";
-"COURSE_DATES.UPCOMING" = "Upcoming";
+"COURSE_DATES.TODAY" = "Hôm nay";
+"COURSE_DATES.COMPLETED" = "Hoàn thành";
+"COURSE_DATES.PAST_DUE" = "Quá hạn";
+"COURSE_DATES.THIS_WEEK" = "Tuần này";
+"COURSE_DATES.NEXT_WEEK" = "Tuần tới";
+"COURSE_DATES.UPCOMING" = "Sắp tới";

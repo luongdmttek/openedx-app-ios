@@ -1,8 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "Frame 4 1.svg",
-      "idiom" : "universal"
+      "filename" : "loginScreenImage.png",
+      "idiom" : "iphone"
+    },
+    {
+      "filename" : "loginScreenImage~ipad.png",
+      "idiom" : "ipad"
     }
   ],
   "info" : {

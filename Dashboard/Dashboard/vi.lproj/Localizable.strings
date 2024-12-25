@@ -6,40 +6,40 @@
   
 */
 
-"TITLE" = "Dashboard";
-"HEADER.COURSES" = "Courses";
-"HEADER.WELCOME_BACK" = "Welcome back. Let's keep learning.";
+"TITLE" = "bảng điều khiển";
+"HEADER.COURSES" = "Khóa học";
+"HEADER.WELCOME_BACK" = "Chào mừng trở lại. Hãy tiếp tục học tập.";
 
-"SEARCH" = "Search";
+"SEARCH" = "Tìm kiếm";
 
-"EMPTY.SUBTITLE" = "You are not enrolled in any courses yet.";
+"EMPTY.SUBTITLE" = "Bạn chưa ghi danh bất kỳ khóa học nào.";
 
-"LEARN.TITLE" = "Learn";
-"LEARN.VIEW_ALL" = "View All";
-"LEARN.VIEW_ALL_COURSES" = "View All Courses (%@)";
-"LEARN.ALL_COURSES" = "All Courses";
+"LEARN.TITLE" = "Học tập";
+"LEARN.VIEW_ALL" = "Xem tất cả";
+"LEARN.VIEW_ALL_COURSES" = "Xem tất cả các khóa học ( %@ )";
+"LEARN.ALL_COURSES" = "Tất cả các khóa học";
 
-"LEARN.PRIMARY_CARD.ONE_PAST_ASSIGNMENT" = "1 Past Due Assignment";
-"LEARN.PRIMARY_CARD.VIEW_ASSIGNMENTS" = "View Assignments";
-"LEARN.PRIMARY_CARD.PAST_ASSIGNMENTS" = "%@ Past Due Assignments";
-"LEARN.PRIMARY_CARD.FUTURE_ASSIGNMENTS" = "%@ Assignments Due %@ ";
-"LEARN.PRIMARY_CARD.DUE_DAYS" = "%@ Due in %@ Days";
-"LEARN.PRIMARY_CARD.RESUME" = "Resume Course";
-"LEARN.PRIMARY_CARD.START_COURSE" = "Start Course";
+"LEARN.PRIMARY_CARD.ONE_PAST_ASSIGNMENT" = "1 bài tập quá hạn";
+"LEARN.PRIMARY_CARD.VIEW_ASSIGNMENTS" = "Xem bài tập";
+"LEARN.PRIMARY_CARD.PAST_ASSIGNMENTS" = "%@ Bài tập quá hạn";
+"LEARN.PRIMARY_CARD.FUTURE_ASSIGNMENTS" = "%@ Bài tập đến hạn %@ ";
+"LEARN.PRIMARY_CARD.DUE_DAYS" = "%@ Đến hạn sau %@ Ngày";
+"LEARN.PRIMARY_CARD.RESUME" = "Tiếp tục khóa học";
+"LEARN.PRIMARY_CARD.START_COURSE" = "Bắt đầu khóa học";
 
-"LEARN.DROPDOWN_MENU.COURSES" = "Courses";
-"LEARN.DROPDOWN_MENU.PROGRAMS" = "Programs";
+"LEARN.DROPDOWN_MENU.COURSES" = "Khóa học";
+"LEARN.DROPDOWN_MENU.PROGRAMS" = "Chương trình";
 
-"LEARN.CATEGORY.ALL" = "All";
-"LEARN.CATEGORY.IN_PROGRESS" = "In Progress";
-"LEARN.CATEGORY.COMPLETED" = "Completed";
-"LEARN.CATEGORY.EXPIRED" = "Expired";
+"LEARN.CATEGORY.ALL" = "Tất cả";
+"LEARN.CATEGORY.IN_PROGRESS" = "Trong tiến trình";
+"LEARN.CATEGORY.COMPLETED" = "Hoàn thành";
+"LEARN.CATEGORY.EXPIRED" = "Hết hạn";
 
-"LEARN.NO_COURSES_VIEW.NO_COURSES" = "No Courses";
-"LEARN.NO_COURSES_VIEW.NO_COURSES_IN_PROGRESS" = "No Courses in Progress";
-"LEARN.NO_COURSES_VIEW.NO_COMPLETED_COURSES" = "No Completed Courses";
-"LEARN.NO_COURSES_VIEW.NO_EXPIRED_COURSES" = "No Expired Courses";
+"LEARN.NO_COURSES_VIEW.NO_COURSES" = "Không có khóa học";
+"LEARN.NO_COURSES_VIEW.NO_COURSES_IN_PROGRESS" = "Không có khóa học nào đang diễn ra";
+"LEARN.NO_COURSES_VIEW.NO_COMPLETED_COURSES" = "Không có khóa học nào đã hoàn thành";
+"LEARN.NO_COURSES_VIEW.NO_EXPIRED_COURSES" = "Không có khóa học hết hạn";
 
-"LEARN.NO_COURSES_VIEW.NO_COURSES_DESCRIPTION" = "You are not currently enrolled in any courses, would you like to explore the course catalog?";
+"LEARN.NO_COURSES_VIEW.NO_COURSES_DESCRIPTION" = "Bạn hiện chưa ghi danh bất kỳ khóa học nào, bạn có muốn khám phá danh mục khóa học không?";
 
-"LEARN.NO_COURSES_VIEW.FIND_A_COURSE" = "Find a Course";
+"LEARN.NO_COURSES_VIEW.FIND_A_COURSE" = "Tìm một khóa học";

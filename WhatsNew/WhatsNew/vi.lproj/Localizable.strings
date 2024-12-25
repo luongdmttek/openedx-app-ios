@@ -6,8 +6,8 @@
   
 */
 
-"TITLE" = "What's New";
-"BUTTON_PREVIOUS" = "Previous";
-"BUTTON_NEXT" = "Next";
-"BUTTON_DONE" = "Done";
+"TITLE" = "Có gì mới";
+"BUTTON_PREVIOUS" = "Trước";
+"BUTTON_NEXT" = "Tiếp theo";
+"BUTTON_DONE" = "Xong";
 

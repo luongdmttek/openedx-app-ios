@@ -87,6 +87,7 @@
 		297F389E40E7DA7B54822022 /* Pods-App-Dashboard-DashboardTests.releaseprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Dashboard-DashboardTests.releaseprod.xcconfig"; path = "Target Support Files/Pods-App-Dashboard-DashboardTests/Pods-App-Dashboard-DashboardTests.releaseprod.xcconfig"; sourceTree = "<group>"; };
 		2AC36B6C48F0512E8ECEC9BC /* Pods-App-Dashboard-DashboardTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Dashboard-DashboardTests.debug.xcconfig"; path = "Target Support Files/Pods-App-Dashboard-DashboardTests/Pods-App-Dashboard-DashboardTests.debug.xcconfig"; sourceTree = "<group>"; };
 		3E3C0ABBCE5A2853AD231815 /* Pods-App-Dashboard.debugstage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Dashboard.debugstage.xcconfig"; path = "Target Support Files/Pods-App-Dashboard/Pods-App-Dashboard.debugstage.xcconfig"; sourceTree = "<group>"; };
+		496828FC2D1BF4FC002B115D /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4BC4CB3BD3F2BC4E453AC9B8 /* Pods-App-Dashboard.debugprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Dashboard.debugprod.xcconfig"; path = "Target Support Files/Pods-App-Dashboard/Pods-App-Dashboard.debugprod.xcconfig"; sourceTree = "<group>"; };
 		65CD5AB152F3DEC88D48AE2D /* Pods-App-Dashboard.debugdev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Dashboard.debugdev.xcconfig"; path = "Target Support Files/Pods-App-Dashboard/Pods-App-Dashboard.debugdev.xcconfig"; sourceTree = "<group>"; };
 		6BA3D1943CAB859ECDC95C76 /* Pods-App-Dashboard.releasedev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Dashboard.releasedev.xcconfig"; path = "Target Support Files/Pods-App-Dashboard/Pods-App-Dashboard.releasedev.xcconfig"; sourceTree = "<group>"; };
@@ -372,6 +373,7 @@
 				en,
 				Base,
 				uk,
+				vi,
 			);
 			mainGroup = 02EF39DD28D89F560058F6BD;
 			packageReferences = (
@@ -544,6 +546,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				02F6EF4428D9ECC500835477 /* en */,
+				496828FC2D1BF4FC002B115D /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

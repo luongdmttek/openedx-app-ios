@@ -152,6 +152,8 @@
 		1DF890C9EF8CFBC7610676BF /* Pods-App-Discussion.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Discussion.release.xcconfig"; path = "Target Support Files/Pods-App-Discussion/Pods-App-Discussion.release.xcconfig"; sourceTree = "<group>"; };
 		2F4E0FCAD2C351B8C3DCE0DA /* Pods-App-Discussion-DiscussionTests.debugprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Discussion-DiscussionTests.debugprod.xcconfig"; path = "Target Support Files/Pods-App-Discussion-DiscussionTests/Pods-App-Discussion-DiscussionTests.debugprod.xcconfig"; sourceTree = "<group>"; };
 		307AD0C3C81316D6B0C04178 /* Pods-App-Discussion-DiscussionTests.debugdev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Discussion-DiscussionTests.debugdev.xcconfig"; path = "Target Support Files/Pods-App-Discussion-DiscussionTests/Pods-App-Discussion-DiscussionTests.debugdev.xcconfig"; sourceTree = "<group>"; };
+		496828FF2D1BF5F1002B115D /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
+		496829002D1BF5F1002B115D /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = vi; path = vi.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		4D6EE7EAA4004C3BE8757E3E /* Pods-App-Discussion-DiscussionTests.debugstage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Discussion-DiscussionTests.debugstage.xcconfig"; path = "Target Support Files/Pods-App-Discussion-DiscussionTests/Pods-App-Discussion-DiscussionTests.debugstage.xcconfig"; sourceTree = "<group>"; };
 		55A6A0C34167EFFA9736A83E /* Pods-App-Discussion-DiscussionTests.releaseprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Discussion-DiscussionTests.releaseprod.xcconfig"; path = "Target Support Files/Pods-App-Discussion-DiscussionTests/Pods-App-Discussion-DiscussionTests.releaseprod.xcconfig"; sourceTree = "<group>"; };
 		59F3BBE6ACFA3C87C2294DA0 /* Pods-App-Discussion-DiscussionTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Discussion-DiscussionTests.release.xcconfig"; path = "Target Support Files/Pods-App-Discussion-DiscussionTests/Pods-App-Discussion-DiscussionTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -571,6 +573,7 @@
 				en,
 				Base,
 				uk,
+				vi,
 			);
 			mainGroup = 0218194328F7344A00202564;
 			packageReferences = (
@@ -764,6 +767,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0218196128F734CD00202564 /* en */,
+				496828FF2D1BF5F1002B115D /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -773,6 +777,7 @@
 			children = (
 				02426DE52983DD4D00B31E6C /* en */,
 				02ED50D129A64BBF008341CD /* uk */,
+				496829002D1BF5F1002B115D /* vi */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";

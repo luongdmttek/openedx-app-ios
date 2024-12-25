@@ -6,60 +6,60 @@
   
 */
 
-"TITLE" = "Discussions";
-"BANNER.DISCUSSIONS_IS_DISABLED" = "Posting in discussions is disabled by the course team";
+"TITLE" = "Thảo luận";
+"BANNER.DISCUSSIONS_IS_DISABLED" = "Việc đăng bài trong các cuộc thảo luận đã bị nhóm khóa học vô hiệu hóa";
 
-"TOPICS.SEARCH" = "Search all posts";
-"TOPICS.ALL_POSTS" = "All Posts";
-"TOPICS.POST_IM_FOLLOWING" = "Posts I'm following";
-"TOPICS.MAIN_CATEGORIES" = "Main categories";
-"TOPICS.UNNAMED" = "Unnamed subcategory";
+"TOPICS.SEARCH" = "Tìm kiếm tất cả bài viết";
+"TOPICS.ALL_POSTS" = "Tất cả những bài viết";
+"TOPICS.POST_IM_FOLLOWING" = "Bài viết tôi đang theo dõi";
+"TOPICS.MAIN_CATEGORIES" = "Nhưng hạng mục chinh";
+"TOPICS.UNNAMED" = "Danh mục con chưa được đặt tên";
 
-"POSTS.SORT.RECENT_ACTIVITY" = "Recent Activity";
-"POSTS.SORT.MOST_ACTIVITY" = "Most Activity";
-"POSTS.SORT.MOST_VOTES" = "Most Votes";
-"POSTS.NO_DISCUSSION.TITLE" = "No discussions yet";
-"POSTS.NO_DISCUSSION.DESCRIPTION" = "Click the button below to create your first discussion.";
-"POSTS.NO_DISCUSSION.CREATEBUTTON" = "Create discussion";
-"POSTS.NO_DISCUSSION.ADD_POST" = "Add a post";
+"POSTS.SORT.RECENT_ACTIVITY" = "Hoạt động gần đây";
+"POSTS.SORT.MOST_ACTIVITY" = "Hoạt động nhiều nhất";
+"POSTS.SORT.MOST_VOTES" = "Nhiều phiếu bầu nhất";
+"POSTS.NO_DISCUSSION.TITLE" = "Chưa có cuộc thảo luận nào";
+"POSTS.NO_DISCUSSION.DESCRIPTION" = "Nhấp vào nút bên dưới để tạo cuộc thảo luận đầu tiên của bạn.";
+"POSTS.NO_DISCUSSION.CREATEBUTTON" = "Tạo cuộc thảo luận";
+"POSTS.NO_DISCUSSION.ADD_POST" = "Thêm bài đăng";
 
-"POSTS.FILTER.ALL_POSTS" = "All Posts";
-"POSTS.FILTER.UNREAD" = "Unread";
-"POSTS.FILTER.UNANSWERED" = "Unanswered";
+"POSTS.FILTER.ALL_POSTS" = "Tất cả những bài viết";
+"POSTS.FILTER.UNREAD" = "Chưa đọc";
+"POSTS.FILTER.UNANSWERED" = "Chưa được trả lời";
 
-"POSTS.CREATE_NEW_POST" = "Create new post";
-"POSTS.ALERT.MAKE_SELECTION" = "Make a selection";
+"POSTS.CREATE_NEW_POST" = "Tạo bài đăng mới";
+"POSTS.ALERT.MAKE_SELECTION" = "Làm cho một lựa chọn";
 
-"POST.LAST_POST" = "Last post:";
+"POST.LAST_POST" = "Bài đăng cuối cùng:";
 
-"THREAD.ALERT.COMMENT_ADDED" = "Comment added";
-"THREAD.ADD_RESPONSE" = "Add a response";
+"THREAD.ALERT.COMMENT_ADDED" = "Đã thêm nhận xét";
+"THREAD.ADD_RESPONSE" = "Thêm phản hồi";
 
-"CREATE_THREAD.NEW_POST" = "Create new post";
-"CREATE_THREAD.SELECT_POST_TYPE" = "Select post type";
-"CREATE_THREAD.TOPIC" = "Topic";
-"CREATE_THREAD.TITLE" = "Title";
-"CREATE_THREAD.FOLLOW_DISCUSSION" = "Follow this discussion";
-"CREATE_THREAD.FOLLOW_QUESTION" = "Follow this question";
-"CREATE_THREAD.CREATE_DISCUSSION" = "Create new discussion";
-"CREATE_THREAD.CREATE_QUESTION" = "Create new question";
+"CREATE_THREAD.NEW_POST" = "Tạo bài đăng mới";
+"CREATE_THREAD.SELECT_POST_TYPE" = "Chọn loại bài đăng";
+"CREATE_THREAD.TOPIC" = "Chủ đề";
+"CREATE_THREAD.TITLE" = "Tiêu đề";
+"CREATE_THREAD.FOLLOW_DISCUSSION" = "Theo dõi cuộc thảo luận này";
+"CREATE_THREAD.FOLLOW_QUESTION" = "Theo dõi câu hỏi này";
+"CREATE_THREAD.CREATE_DISCUSSION" = "Tạo cuộc thảo luận mới";
+"CREATE_THREAD.CREATE_QUESTION" = "Tạo câu hỏi mới";
 
-"COMMENT.REPORT" = "Report";
-"COMMENT.UNREPORT" = "Unreport";
-"COMMENT.FOLLOW" = "Follow";
-"COMMENT.UNFOLLOW" = "Unfollow";
+"COMMENT.REPORT" = "Báo cáo";
+"COMMENT.UNREPORT" = "Hủy báo cáo";
+"COMMENT.FOLLOW" = "Theo";
+"COMMENT.UNFOLLOW" = "Hủy theo dõi";
 
-"RESPONSE.COMMENTS_RESPONSES" = "Comment";
-"RESPONSE.ALERT.COMMENT_ADDED" = "Comment added";
-"RESPONSE.ADD_COMMENT" = "Add a comment";
+"RESPONSE.COMMENTS_RESPONSES" = "Bình luận";
+"RESPONSE.ALERT.COMMENT_ADDED" = "Đã thêm nhận xét";
+"RESPONSE.ADD_COMMENT" = "Thêm một bình luận";
 
-"POST_TYPE.QUESTION" = "question";
-"POST_TYPE.DISCUSSION" = "discussion";
+"POST_TYPE.QUESTION" = "câu hỏi";
+"POST_TYPE.DISCUSSION" = "cuộc thảo luận";
 
-"SEARCH" = "Search";
-"SEARCH.TITLE" = "Search results";
-"SEARCH.EMPTY_DESCRIPTION" = "Start typing to find the topics";
+"SEARCH" = "Tìm kiếm";
+"SEARCH.TITLE" = "Kết quả tìm kiếm";
+"SEARCH.EMPTY_DESCRIPTION" = "Bắt đầu nhập để tìm Chủ đề";
 
-"ANONYMOUS" = "Anonymous";
+"ANONYMOUS" = "Vô danh";
 
-"ERROR.UNABLE_TO_LOAD_DISCUSSION" = "Unable to load discussions.\nTry again later.";
+"ERROR.UNABLE_TO_LOAD_DISCUSSION" = "Không thể tải thảo luận.\n Hãy thử lại sau.";

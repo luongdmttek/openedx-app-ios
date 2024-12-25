@@ -17,6 +17,7 @@ public struct SignInView: View {
     @State private var password: String = ""
     
     @Environment(\.isHorizontal) private var isHorizontal
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     
     @ObservedObject
     private var viewModel: SignInViewModel
@@ -27,35 +28,13 @@ public struct SignInView: View {
     
     public var body: some View {
         ZStack(alignment: .top) {
-            VStack {
-                ThemeAssets.headerBackground.swiftUIImage
-                    .resizable()
-                    .edgesIgnoringSafeArea(.top)
-                    .accessibilityIdentifier("auth_bg_image")
-            }.frame(maxWidth: .infinity, maxHeight: 200)
-            if viewModel.config.features.startupScreenEnabled {
-                VStack {
-                    BackNavigationButton(
-                        color: Theme.Colors.loginNavigationText,
-                        action: {
-                            viewModel.router.back()
-                        }
-                    )
-                    .backViewStyle()
-                    .padding(.leading, isHorizontal ? 48 : 0)
-                    .padding(.top, 11)
-                    
-                }.frame(maxWidth: .infinity, alignment: .topLeading)
-                    .padding(.top, isHorizontal ? 20 : 0)
-            }
             
             VStack(alignment: .center) {
                 ThemeAssets.appLogo.swiftUIImage
                     .resizable()
                     .aspectRatio(contentMode: .fit)
-                    .frame(maxWidth: 189, maxHeight: 89)
-                    .padding(.top, isHorizontal ? 20 : 40)
-                    .padding(.bottom, isHorizontal ? 10 : 40)
+                    .padding(.top, 10)
+                    .padding(.horizontal, horizontalSizeClass == .compact ? 0 : 70)
                     .accessibilityIdentifier("logo_image")
                 
                 GeometryReader { proxy in
@@ -121,17 +100,8 @@ public struct SignInView: View {
                                                 .fill(Theme.Colors.textInputStroke)
                                         )
                                         .accessibilityIdentifier("password_textfield")
-                                    HStack {
-                                        if !viewModel.config.features.startupScreenEnabled {
-                                            Button(CoreLocalization.SignIn.registerBtn) {
-                                                viewModel.router.showRegisterScreen(sourceScreen: viewModel.sourceScreen)
-                                            }
-                                            .foregroundColor(Theme.Colors.accentColor)
-                                            .accessibilityIdentifier("register_button")
-                                            
-                                            Spacer()
-                                        }
-                                        
+                                    HStack {                                        
+                                        Spacer()
                                         Button(AuthLocalization.SignIn.forgotPassBtn) {
                                             viewModel.trackForgotPasswordClicked()
                                             viewModel.router.showForgotPasswordScreen()
@@ -238,10 +208,9 @@ public struct SignInView: View {
                             Spacer()
                         }
                         .padding(.horizontal, 24)
-                        .padding(.top, 50)
+                        .padding(.top, 20)
                         .frameLimit(width: proxy.size.width)
                     }
-                    .roundedBackground(Theme.Colors.loginBackground)
                     .scrollAvoidKeyboard(dismissKeyboardByTap: true)
                 }
             }

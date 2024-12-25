@@ -59,8 +59,8 @@
 		25B36FF48C1307888A3890DA /* Pods_App_Profile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BEA369C38362C1A91A012F70 /* Pods_App_Profile.framework */; };
 		BAD9CA3F2B29BF5C00DE790A /* ProfileSupportInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD9CA3E2B29BF5C00DE790A /* ProfileSupportInfoView.swift */; };
 		CE1735042CD23D7A00F9606A /* DatesAndCalendarViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1735032CD23D7A00F9606A /* DatesAndCalendarViewModelTests.swift */; };
-		CE961F032CD163FD00799B9F /* CalendarManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE961F022CD163FD00799B9F /* CalendarManagerTests.swift */; };
 		CE7CAF3D2CC1562C00E0AC9D /* OEXFoundation in Frameworks */ = {isa = PBXBuildFile; productRef = CE7CAF3C2CC1562C00E0AC9D /* OEXFoundation */; };
+		CE961F032CD163FD00799B9F /* CalendarManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE961F022CD163FD00799B9F /* CalendarManagerTests.swift */; };
 		CEB1E2702CC14EB000921517 /* OEXFoundation in Frameworks */ = {isa = PBXBuildFile; productRef = CEB1E26F2CC14EB000921517 /* OEXFoundation */; };
 		CEBCA4312CC13CB900076589 /* BranchSDK in Frameworks */ = {isa = PBXBuildFile; productRef = CEBCA4302CC13CB900076589 /* BranchSDK */; };
 		E8264C634DD8AD314ECE8905 /* Pods_App_Profile_ProfileTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C85ADF87135E03275A980E07 /* Pods_App_Profile_ProfileTests.framework */; };
@@ -142,6 +142,7 @@
 		0796C8C829B7905300444B05 /* ProfileBottomSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileBottomSheet.swift; sourceTree = "<group>"; };
 		0E5054C44435557666B6D885 /* Pods-App-Profile.debugstage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Profile.debugstage.xcconfig"; path = "Target Support Files/Pods-App-Profile/Pods-App-Profile.debugstage.xcconfig"; sourceTree = "<group>"; };
 		3674C51E1BE41D834B5C4E99 /* Pods-App-Profile.debugdev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Profile.debugdev.xcconfig"; path = "Target Support Files/Pods-App-Profile/Pods-App-Profile.debugdev.xcconfig"; sourceTree = "<group>"; };
+		496829012D1BF80E002B115D /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		52AFEEDE612F39072A418B1B /* Pods-App-Profile-ProfileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Profile-ProfileTests.debug.xcconfig"; path = "Target Support Files/Pods-App-Profile-ProfileTests/Pods-App-Profile-ProfileTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5788D9F297637D0D4A327E3B /* Pods-App-Profile-ProfileTests.debugprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Profile-ProfileTests.debugprod.xcconfig"; path = "Target Support Files/Pods-App-Profile-ProfileTests/Pods-App-Profile-ProfileTests.debugprod.xcconfig"; sourceTree = "<group>"; };
 		7353334255A8C1EC85A413DE /* Pods-App-Profile.releaseprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Profile.releaseprod.xcconfig"; path = "Target Support Files/Pods-App-Profile/Pods-App-Profile.releaseprod.xcconfig"; sourceTree = "<group>"; };
@@ -761,6 +762,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				021D926028DDADE600ACC565 /* en */,
+				496829012D1BF80E002B115D /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

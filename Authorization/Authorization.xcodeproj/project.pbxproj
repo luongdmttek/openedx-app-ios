@@ -97,6 +97,7 @@
 		37CBD3ECE7D9B20E0BC61344 /* Pods-App-Authorization-AuthorizationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Authorization-AuthorizationTests.release.xcconfig"; path = "Target Support Files/Pods-App-Authorization-AuthorizationTests/Pods-App-Authorization-AuthorizationTests.release.xcconfig"; sourceTree = "<group>"; };
 		3E0D103D8210828583660AF6 /* Pods-App-Authorization.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Authorization.debug.xcconfig"; path = "Target Support Files/Pods-App-Authorization/Pods-App-Authorization.debug.xcconfig"; sourceTree = "<group>"; };
 		47BCFB7C19382EECF15131B6 /* Pods_App_Authorization.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_App_Authorization.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		496828F82D1BF431002B115D /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		49A74E7AC5109DFA06BDAF3A /* Pods-App-Authorization-AuthorizationTests.releasedev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Authorization-AuthorizationTests.releasedev.xcconfig"; path = "Target Support Files/Pods-App-Authorization-AuthorizationTests/Pods-App-Authorization-AuthorizationTests.releasedev.xcconfig"; sourceTree = "<group>"; };
 		4FAE9B7FD61FF88C9C4FE1E8 /* Pods_App_Authorization_AuthorizationTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_App_Authorization_AuthorizationTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		68795EBDC3000C1B12F9432C /* Pods-App-Authorization.debugprod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App-Authorization.debugprod.xcconfig"; path = "Target Support Files/Pods-App-Authorization/Pods-App-Authorization.debugprod.xcconfig"; sourceTree = "<group>"; };
@@ -441,6 +442,7 @@
 				en,
 				Base,
 				uk,
+				vi,
 			);
 			mainGroup = 0770DE3128D0A318006D8A5D;
 			packageReferences = (
@@ -618,6 +620,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0770DE6C28D0C035006D8A5D /* en */,
+				496828F82D1BF431002B115D /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
