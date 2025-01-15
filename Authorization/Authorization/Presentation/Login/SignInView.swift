@@ -17,6 +17,7 @@ public struct SignInView: View {
     @State private var password: String = ""
     
     @Environment(\.isHorizontal) private var isHorizontal
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     
     @ObservedObject
     private var viewModel: SignInViewModel
@@ -53,9 +54,8 @@ public struct SignInView: View {
                 ThemeAssets.appLogo.swiftUIImage
                     .resizable()
                     .aspectRatio(contentMode: .fit)
-                    .frame(maxWidth: 189, maxHeight: 89)
-                    .padding(.top, isHorizontal ? 20 : 40)
-                    .padding(.bottom, isHorizontal ? 10 : 40)
+                    .padding(.top, 0)
+                    .padding(.horizontal, horizontalSizeClass == .compact ? 20 : 70)
                     .accessibilityIdentifier("logo_image")
                 
                 GeometryReader { proxy in
@@ -238,7 +238,7 @@ public struct SignInView: View {
                             Spacer()
                         }
                         .padding(.horizontal, 24)
-                        .padding(.top, 50)
+                        .padding(.top, 20)
                         .frameLimit(width: proxy.size.width)
                     }
                     .roundedBackground(Theme.Colors.loginBackground)

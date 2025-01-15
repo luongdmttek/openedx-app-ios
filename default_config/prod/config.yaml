@@ -1,14 +1,16 @@
-API_HOST_URL: 'http://localhost:8000'
-SSO_URL: 'http://localhost:8000'
-SSO_FINISHED_URL:  'http://localhost:8000'
-ENVIRONMENT_DISPLAY_NAME: 'Localhost'
-FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
-OAUTH_CLIENT_ID: ''
+API_HOST_URL: 'https://courses.goamazing.org'
+SSO_URL: 'https://courses.goamazing.org'
+SSO_FINISHED_URL:  'https://courses.goamazing.org'
+ENVIRONMENT_DISPLAY_NAME: 'https://courses.goamazing.org'
+FEEDBACK_EMAIL_ADDRESS: 'contact@goamazing.org'
+OAUTH_CLIENT_ID: 'UPBKHIhpNqhqNknEe74tQcQoG9BC8Lst1qYwQal8'
 
 SSO_BUTTON_TITLE:
     ar: "الدخول عبر SSO"
     en: "Sign in with SSO"
 
+PRE_LOGIN_EXPERIENCE_ENABLED: false
+REGISTRATION_ENABLED: false
 
 UI_COMPONENTS:
     COURSE_UNIT_PROGRESS_ENABLED: false

@@ -1,0 +1,37 @@
+/*
+  Localizable.strings
+  Discovery
+
+  Created by  Stepanok Ivan on 19.09.2022.
+  
+*/
+
+"TITLE" = "Khám phá";
+"SEARCH" = "Tìm kiếm";
+"HEADER.TITLE_1" = "Khám phá mới";
+"HEADER.TITLE_2" = "Hãy cùng tìm khóa học mới cho bạn.";
+
+"SEARCH.TITLE" = "Kết quả tìm kiếm";
+"SEARCH.EMPTY_DESCRIPTION" = "Bắt đầu nhập để tìm khóa học";
+
+"UPDATE_REQUIRED_TITLE" = "Yêu cầu cập nhật ứng dụng";
+"UPDATE_REQUIRED_DESCRIPTION" = "Phiên bản ứng dụng OpenEdX này đã lỗi thời. Để tiếp tục tìm hiểu và nhận các tính năng cũng như bản sửa lỗi mới nhất, vui lòng nâng cấp lên phiên bản mới nhất.";
+"UPDATE_WHY_NEED" = "Tại sao tôi cần cập nhật?";
+"UPDATE_DEPRECATED_APP" = "Phiên bản ứng dụng không được dùng nữa";
+"UPDATE_BUTTON" = "Cập nhật";
+"UPDATE_ACCOUNT_SETTINGS" = "Cài đặt tài khoản";
+
+"UPDATE_NEEDED_TITLE" = "Cập nhật ứng dụng";
+"UPDATE_NEEDED_DESCRIPTION" = "Chúng tôi khuyên bạn nên cập nhật lên phiên bản mới nhất. Hãy nâng cấp ngay để nhận các tính năng và bản sửa lỗi mới nhất.";
+"UPDATE_NEEDED_NOT_NOW" = "Không phải bây giờ";
+
+"UPDATE_NEW_AVALIABLE" = "Đã có bản cập nhật mới! Hãy nâng cấp ngay để nhận các tính năng và bản sửa lỗi mới nhất";
+
+"ALERT.LEAVING_APP_TITLE" = "Rời khỏi ứng dụng";
+"ALERT.LEAVING_APP_MESSAGE" = "Bây giờ bạn đang rời khỏi ứng dụng và mở trình duyệt";
+
+"DETAILS.TITLE" = "Chi tiết khóa học";
+"DETAILS.VIEW_COURSE" = "Xem khóa học";
+"DETAILS.ENROLL_NOW" = "Ghi danh ngay bây giờ";
+"DETAILS.ENROLLMENT_DATE_IS_OVER" = "Bạn không thể ghi danh khóa học này vì ngày ghi danh đã hết.";
+"DETAILS.ENROLLMENT_NO_INTERNET" = "Để ghi danh khóa học này, vui lòng đảm bảo bạn đã kết nối với internet.";

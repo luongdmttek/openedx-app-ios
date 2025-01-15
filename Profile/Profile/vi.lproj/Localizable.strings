@@ -1,0 +1,154 @@
+/*
+  Localizable.strings
+  Profile
+
+  Created by  Stepanok Ivan on 23.09.2022.
+  
+*/
+
+"TITLE" = "Hồ sơ";
+"INFO" = "Thông tin hồ sơ";
+"ABOUT" = "Về tôi";
+"EDIT_PROFILE" = "Chỉnh sửa hồ sơ";
+"YEAR_OF_BIRTH" = "Năm sinh:";
+"BIO" = "Sinh học:";
+"SETTINGS" = "Cài đặt";
+"SETTINGS_VIDEO" = "Cài đặt video";
+"DATES_AND_CALENDAR" = "Ngày & Lịch";
+"SUPPORT_INFO" = "Thông tin hỗ trợ";
+"CONTACT" = "Liên hệ hỗ trợ";
+"TERMS" = "Điều khoản sử dụng";
+"PRIVACY" = "Chính sách bảo mật";
+"COOKIE_POLICY" = "Chính sách cookie";
+"DO_NOT_SELL_INFORMATION" = "Không bán thông tin cá nhân của tôi";
+"FAQ_TITLE" = "Xem câu hỏi thường gặp";
+"MANAGE_ACCOUNT" = "Quản lý tài khoản";
+
+"LOGOUT" = "Đăng xuất";
+"SWITCH_TO" = "Chuyển sang";
+"FULL_PROFILE" = "hồ sơ đầy đủ";
+"LIMITED_PROFILE" = "hồ sơ hạn chế";
+
+"LOGOUT_ALERT.TITLE" = "Xác nhận đăng xuất";
+"LOGOUT_ALERT.TEXT" = "Bạn có chắc chắn bạn muốn thoát?";
+
+"DELETE_ALERT.TITLE" = "Cảnh báo!";
+"DELETE_ALERT.TEXT" = "Bạn có thực sự muốn xóa tài khoản của mình không?";
+
+"UNSAVED_DATA_ALERT.TITLE" = "Thoát mà không lưu?";
+"UNSAVED_DATA_ALERT.TEXT" = "Những thay đổi bạn đã thực hiện sẽ bị loại bỏ.";
+
+"EDIT.TOO_YONG_USER" = "Bạn phải trên 13 tuổi mới có hồ sơ đầy đủ thông tin.";
+"EDIT.LIMITED_PROFILE_DESCRIPTION" = "Hồ sơ hạn chế chỉ chia sẻ tên người dùng và ảnh hồ sơ của bạn.";
+"EDIT.DELETE_ACCOUNT" = "Xóa tài khoản";
+
+"EDIT.FIELDS.YEAR_OF_BIRTH" = "Năm sinh";
+"EDIT.FIELDS.LOCATION" = "Vị trí";
+"EDIT.FIELDS.SPOKEN_LANGUGAE" = "Ngôn ngư noi";
+"EDIT.FIELDS.ABOUT_ME" = "Về tôi:";
+
+"EDIT.BOTTOM_SHEET.TITLE" = "Thay đổi hình ảnh hồ sơ";
+"EDIT.BOTTOM_SHEET.SELECT" = "Chọn từ thư viện";
+"EDIT.BOTTOM_SHEET.REMOVE" = "Gỡ bỏ hình";
+"EDIT.BOTTOM_SHEET.CANCEL" = "Hủy bỏ";
+
+"DELETE_ACCOUNT.TITLE" = "Xóa tài khoản";
+"DELETE_ACCOUNT.ARE_YOU_SURE" = "Bạn có chắc chắn muốn ";
+"DELETE_ACCOUNT.WANT_TO_DELETE" = "Xóa tài khoản của bạn?";
+"DELETE_ACCOUNT.DESCRIPTION" = "Để xác nhận hành động này, vui lòng nhập mật khẩu tài khoản của bạn.";
+"DELETE_ACCOUNT.PASSWORD" = "Mật khẩu";
+"DELETE_ACCOUNT.PASSWORD_DESCRIPTION" = "Nhập mật khẩu";
+"DELETE_ACCOUNT.CONFIRM" = "Có, xóa tài khoản";
+"DELETE_ACCOUNT.BACK_TO_PROFILE" = "Quay lại hồ sơ";
+"DELETE_ACCOUNT.INCORRECT_PASSWORD" = "Mật khẩu không đúng. Vui lòng thử lại.";
+
+"SETTINGS.VIDEO_SETTINGS_TITLE" = "Cài đặt video";
+"SETTINGS.WIFI_TITLE" = "Chỉ tải xuống Wi-Fi";
+"SETTINGS.WIFI_DESCRIPTION" = "Chỉ tải xuống nội dung khi bật Wi-Fi";
+"SETTINGS.VIDEO_QUALITY_TITLE" = "Chất lượng truyền phát video";
+"SETTINGS.VIDEO_QUALITY_DESCRIPTION" = "Tự động (Khuyến nghị)";
+
+"SETTINGS.QUALITY_AUTO_TITLE" = "Tự động";
+"SETTINGS.QUALITY_AUTO_DESCRIPTION" = "Khuyến khích";
+"SETTINGS.QUALITY_360_TITLE" = "360p";
+"SETTINGS.QUALITY_360_DESCRIPTION" = "Sử dụng dữ liệu thấp hơn";
+"SETTINGS.QUALITY_540_TITLE" = "540p";
+"SETTINGS.QUALITY_720_TITLE" = "720p";
+"SETTINGS.QUALITY_720_DESCRIPTION" = "Chất lượng tốt nhất";
+
+"SETTINGS.VERSION" = "Phiên bản:";
+"SETTINGS.UP_TO_DATE" = "Cập nhật";
+"SETTINGS.TAP_TO_UPDATE" = "Nhấn để cập nhật lên phiên bản";
+"SETTINGS.TAP_TO_INSTALL" = "Nhấn để cài đặt bản cập nhật ứng dụng cần thiết";
+
+"ERROR.CANNOT_SEND_EMAIL" = "Không thể gửi email. Có vẻ như ứng dụng email của bạn chưa được thiết lập.";
+
+"CALENDAR.NEW_CALENDAR" = "Lịch mới";
+"CALENDAR.CHANGE_SYNC_OPTIONS" = "Thay đổi tùy chọn đồng bộ hóa";
+"CALENDAR.ACCOUNT" = "Tài khoản";
+"CALENDAR.CALENDAR_NAME" = "Tên lịch";
+"CALENDAR.COLOR" = "Màu sắc";
+"CALENDAR.UPCOMING_ASSIGNMENTS" = "Bài tập sắp tới cho các khóa học đang hoạt động sẽ xuất hiện trên lịch này";
+"CALENDAR.CANCEL" = "Hủy bỏ";
+"CALENDAR.BEGIN_SYNCING" = "Bắt đầu đồng bộ hóa";
+
+"ASSIGNMENT_STATUS.SYNCED" = "Đã đồng bộ hóa";
+"ASSIGNMENT_STATUS.FAILED" = "Đồng bộ hóa không thành công";
+"ASSIGNMENT_STATUS.OFFLINE" = "Ngoại tuyến";
+"ASSIGNMENT_STATUS.SYNCING" = "Đang đồng bộ hóa với lịch...";
+
+"CALENDAR_DIALOG.CALENDAR_ACCESS" = "Truy cập lịch";
+"CALENDAR_DIALOG.DISABLE_CALENDAR_SYNC" = "Tắt đồng bộ hóa lịch";
+"CALENDAR_DIALOG.CALENDAR_ACCESS_DESCRIPTION" = "Để hiển thị các bài tập sắp tới và các mốc quan trọng của khóa học trên lịch của bạn, chúng tôi cần có quyền truy cập vào lịch của bạn.";
+"CALENDAR_DIALOG.DISABLE_CALENDAR_SYNC_DESCRIPTION" = "Việc tắt đồng bộ hóa lịch sẽ xóa lịch “ %@ ”. Bạn có thể bật lại đồng bộ hóa lịch bất kỳ lúc nào.";
+"CALENDAR_DIALOG.GRANT_CALENDAR_ACCESS" = "Cấp quyền truy cập lịch";
+"CALENDAR_DIALOG.DISABLE_SYNCING" = "Tắt đồng bộ hóa";
+"CALENDAR_DIALOG.CANCEL" = "Hủy bỏ";
+
+"DATES_AND_CALENDAR.TITLE" = "Ngày & Lịch";
+"CALENDAR_SYNC.TITLE" = "Đồng bộ hóa lịch";
+"CALENDAR_SYNC.DESCRIPTION" = "Thiết lập đồng bộ hóa lịch để hiển thị các bài tập sắp tới và các mốc quan trọng của khóa học trên lịch của bạn. Bài tập mới và ngày học đã thay đổi sẽ tự động đồng bộ hóa";
+"CALENDAR_SYNC.BUTTON" = "Thiết lập đồng bộ hóa lịch";
+"OPTIONS.TITLE" = "Tùy chọn";
+"OPTIONS.USE_RELATIVE_DATES" = "Sử dụng ngày tương đối";
+"OPTIONS.SHOW_RELATIVE_DATES" = "Hiển thị các ngày tương đối như “Ngày mai” và “Hôm qua”";
+"OPTIONS.SHOW_FULL_DATES" = "Hiển thị ngày đầy đủ như “1 tháng 1 năm 2021”";
+
+"DATES_AND_CALENDAR.TITLE" = "Ngày & Lịch";
+"COURSE_CALENDAR_SYNC.TITLE" = "Đồng bộ lịch khóa học";
+"COURSE_CALENDAR_SYNC.DESCRIPTION.RECONNECT_REQUIRED" = "Vui lòng kết nối lại lịch của bạn để tiếp tục đồng bộ hóa";
+"COURSE_CALENDAR_SYNC.DESCRIPTION.SYNCING" = "Hiện đang đồng bộ hóa các sự kiện với lịch của bạn";
+"COURSE_CALENDAR_SYNC.BUTTON.RECONNECT" = "Kết nối lại lịch";
+"COURSE_CALENDAR_SYNC.BUTTON.CHANGE_SYNC_OPTIONS" = "Thay đổi tùy chọn đồng bộ hóa";
+"COURSES_TO_SYNC.SYNCING_COURSES" = "Đồng bộ hóa %d";
+"OPTIONS.TITLE" = "Tùy chọn";
+"OPTIONS.USE_RELATIVE_DATES" = "Sử dụng ngày tương đối";
+"OPTIONS.SHOW_RELATIVE_DATES" = "Hiển thị các ngày tương đối như “Ngày mai” và “Hôm qua”";
+
+"COURSES_TO_SYNC.TITLE" = "Các khóa học để đồng bộ hóa";
+"COURSES_TO_SYNC.DESCRIPTION" = "Việc tắt đồng bộ hóa một khóa học sẽ xóa tất cả các sự kiện được kết nối với khóa học khỏi lịch đã đồng bộ hóa của bạn.";
+"COURSES_TO_SYNC.HIDE_INACTIVE_COURSES" = "Ẩn các khóa học không hoạt động";
+"COURSES_TO_SYNC.HIDE_INACTIVE_COURSES_DESCRIPTION" = "Tự động xóa sự kiện khỏi các khóa học bạn chưa xem trong tháng trước";
+"COURSES_TO_SYNC.INACTIVE" = "Không hoạt động";
+
+"CALENDAR.DROPDOWN.ICLOUD" = "iCloud";
+"CALENDAR.DROPDOWN.LOCAL" = "Địa phương";
+
+"CALENDAR.DROPDOWN_COLOR.ACCENT" = "Giọng";
+"CALENDAR.DROPDOWN_COLOR.RED" = "Màu đỏ";
+"CALENDAR.DROPDOWN_COLOR.ORANGE" = "Quả cam";
+"CALENDAR.DROPDOWN_COLOR.YELLOW" = "Màu vàng";
+"CALENDAR.DROPDOWN_COLOR.GREEN" = "Màu xanh lá";
+"CALENDAR.DROPDOWN_COLOR.BLUE" = "Màu xanh da trời";
+"CALENDAR.DROPDOWN_COLOR.PURPLE" = "Màu tím";
+"CALENDAR.DROPDOWN_COLOR.BROWN" = "Màu nâu";
+
+"CALENDAR.COURSE_DATES" = "%@ Ngày khóa học";
+
+"DROP_DOWN_PICKER.SELECT" = "Lựa chọn";
+
+"SYNC_SELECTOR.SYNCED" = "Để đồng bộ hóa";
+"SYNC_SELECTOR.NOT_SYNCED" = "Chưa được đồng bộ hóa";
+
+"SYNC.NO_SYNCED" = "Không có khóa học được đồng bộ hóa";
+"SYNC.NO_SYNCED_DESCRIPTION" = "Hiện không có khóa học nào được đồng bộ hóa với lịch của bạn.";

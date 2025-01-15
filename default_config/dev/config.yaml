@@ -1,15 +1,16 @@
-API_HOST_URL: 'http://localhost:8000'
-SSO_URL: 'http://localhost:8000'
-SSO_FINISHED_URL:  'http://localhost:8000'
+API_HOST_URL: 'https://sandbox.openedx.edly.io'
+SSO_URL: 'https://sandbox.openedx.edly.io'
+SSO_FINISHED_URL:  'https://sandbox.openedx.edly.io'
 ENVIRONMENT_DISPLAY_NAME: 'Localhost'
 FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
-OAUTH_CLIENT_ID: ''
+OAUTH_CLIENT_ID: 'android'
 
 SSO_BUTTON_TITLE:
     ar: "الدخول عبر SSO"
     en: "Sign in with SSO"
 
-
+PRE_LOGIN_EXPERIENCE_ENABLED: false
+REGISTRATION_ENABLED: false
 
 UI_COMPONENTS:
     COURSE_UNIT_PROGRESS_ENABLED: false

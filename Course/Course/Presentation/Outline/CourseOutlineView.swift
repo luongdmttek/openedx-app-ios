@@ -234,7 +234,7 @@ public struct CourseOutlineView: View {
     @ViewBuilder
     private func downloadQualityBars(proxy: GeometryProxy) -> some View {
         if let courseVideosStructure = viewModel.courseVideosStructure,
-           viewModel.hasVideoForDowbloads() {
+           viewModel.courseVideosStructure?.childs.count != 0 {
             VStack(spacing: 0) {
                 CourseVideoDownloadBarView(
                     courseStructure: courseVideosStructure,

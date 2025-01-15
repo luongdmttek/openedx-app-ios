@@ -120,6 +120,6 @@ default_config/
 # Translations ignored files
 .venv/
 I18N/
-*.lproj/
+# *.lproj/
 !en.lproj/
 /config_script/__pycache__

@@ -1,0 +1,173 @@
+/*
+  Localizable.strings
+  Course
+
+  Created by  Stepanok Ivan on 26.09.2022.
+  
+*/
+
+"OUTLINE.PASSED_THE_COURSE" = "Xin chúc mừng, bạn đã đạt được chứng chỉ khóa học này trong “ %@ \.”";
+"OUTLINE.VIEW_CERTIFICATE" = "Xem chứng chỉ";
+"OUTLINE.CERTIFICATE" = "Giấy chứng nhận";
+"OUTLINE.COURSE_VIDEOS" = "Video khóa học";
+"OUTLINE.COURSE_HASNT_STARTED" = "Khóa học này vẫn chưa bắt đầu.";
+
+"COURSEWARE.COURSE_CONTENT" = "Nội dung khóa học";
+"COURSEWARE.COURSE_UNITS" = "Đơn vị khóa học";
+"COURSEWARE.NEXT" = "Tiếp theo";
+"COURSEWARE.PREVIOUS" = "Trước đó";
+"COURSEWARE.FINISH" = "Hoàn thành";
+"COURSEWARE.GOOD_WORK" = "Làm tốt lắm!";
+"COURSEWARE.BACK_TO_OUTLINE" = "Quay lại phác thảo";
+"COURSEWARE.SECTION" = "Bạn đã hoàn thành “";
+"COURSEWARE.IS_FINISHED" = "“.";
+"COURSEWARE.CONTINUE" = "Tiếp tục";
+"COURSEWARE.RESUME_WITH" = "Tiếp tục với:";
+
+"ERROR.NO_INTERNET" = "Bạn không kết nối với Internet. Xin vui lòng kiểm tra kết nối Internet của bạn.";
+"ERROR.RELOAD" = "Tải lại";
+"ERROR.COMPONENT_NOT_FOUNT" = "Không tìm thấy thành phần khóa học, vui lòng tải lại";
+"ERROR.HANDOUTS_UNAVAILABLE" = "Hiện tại không có tài liệu nào cho khóa học này.";
+"ERROR.ANNOUNCEMENTS_UNAVAILABLE" = "Hiện tại không có thông báo nào cho khóa học này.";
+"ERROR.VIDEOS_UNAVAILABLE" = "Hiện tại không có video nào cho khóa học này.";
+"ERROR.COURSE_DATE_UNAVAILABLE" = "Hiện tại chưa có ngày khai giảng khóa học.";
+"ERROR.COURSEWARE_UNAVAILABLE" = "Hiện tại không có nội dung khóa học nào khả dụng.";
+
+"ALERT.ROTATE_DEVICE" = "Xoay thiết bị của bạn để xem video này ở chế độ toàn màn hình.";
+"ALERT.ACCEPT" = "Chấp nhận";
+"ALERT.DELETE_ALL_VIDEOS" = "Bạn có chắc chắn muốn xóa tất cả video cho";
+"ALERT.DELETE_VIDEOS" = "Bạn có chắc chắn muốn xóa (các) video vì";
+"ALERT.STOP_DOWNLOADING" = "Việc tắt công tắc sẽ ngừng tải xuống và xóa tất cả các video đã tải xuống cho";
+"ALERT.WARNING" = "Cảnh báo";
+
+"COURSE_CONTAINER.HOME" = "Trang chủ";
+"COURSE_CONTAINER.VIDEOS" = "Video";
+"COURSE_CONTAINER.OFFLINE" = "Ngoại tuyến";
+"COURSE_CONTAINER.DATES" = "Ngày";
+"COURSE_CONTAINER.DISCUSSIONS" = "Thảo luận";
+"COURSE_CONTAINER.HANDOUTS" = "Thêm...";
+"COURSE_CONTAINER.HANDOUTS_IN_DEVELOPING" = "Tài liệu phát tay Đang phát triển";
+
+"HANDOUTS_CELL_HANDOUTS.TITLE" = "Tài liệu phát tay";
+"HANDOUTS_CELL_ANNOUNCEMENTS.TITLE" = "Thông báo";
+"HANDOUTS_CELL_HANDOUTS.DESCRIPTION" = "Tìm thông tin khóa học quan trọng";
+"HANDOUTS_CELL_ANNOUNCEMENTS.DESCRIPTION" = "Theo kịp với những tin tức mới nhất";
+
+"NOT_AVALIABLE.TITLE" = "Thành phần tương tác này không có sẵn trên thiết bị di động";
+"NOT_AVALIABLE.DESCRIPTION" = "Khám phá các phần khác của khóa học này hoặc xem phần này trên web.";
+"NOT_AVALIABLE.BUTTON" = "Mở trong trình duyệt";
+
+"SUBTITLES.TITLE" = "phụ đề";
+
+"ACCESSIBILITY.DOWNLOAD" = "Tải xuống";
+"ACCESSIBILITY.CANCEL_DOWNLOAD" = "Hủy tải xuống";
+"ACCESSIBILITY.DELETE_DOWNLOAD" = "Xóa tải xuống";
+
+"DOWNLOAD.DOWNLOADS" = "Tải xuống";
+"DOWNLOAD.DOWNLOAD" = "Tải xuống";
+"DOWNLOAD.ALL_VIDEOS_DOWNLOADED" = "Tất cả video đã tải xuống";
+"DOWNLOAD.DOWNLOADING_VIDEOS" = "Đang tải xuống video...";
+"DOWNLOAD.DOWNLOAD_TO_DEVICE" = "Tải xuống thiết bị";
+"DOWNLOAD.VIDEOS" = "Video";
+"DOWNLOAD.REMAINING" = "Còn lại";
+"DOWNLOAD.UNTITLED" = "Không có tiêu đề";
+"DOWNLOAD.TOTAL" = "Tổng cộng";
+
+"DOWNLOAD.CHANGE_QUALITY_ALERT" = "Bạn không thể thay đổi chất lượng video tải xuống khi tất cả video đang tải xuống";
+"DOWNLOAD.DOWNLOAD_LARGE_FILE_MESSAGE" = "Các video bạn đã chọn lớn hơn 1 GB. Bạn có muốn tải xuống những video này không?";
+"DOWNLOAD.NO_WIFI_MESSAGE" = "Cài đặt tải xuống hiện tại của bạn chỉ cho phép tải xuống qua Wi-Fi.\n Vui lòng kết nối với mạng Wi-Fi hoặc thay đổi cài đặt tải xuống của bạn.";
+
+"COURSE_DATES.TODAY" = "Hôm nay";
+"COURSE_DATES.COMPLETED" = "Hoàn thành";
+"COURSE_DATES.PAST_DUE" = "Quá hạn";
+"COURSE_DATES.DUE_NEXT" = "Đến hạn tiếp theo";
+"COURSE_DATES.UNRELEASED" = "Chưa phát hành";
+"COURSE_DATES.VERIFIED_ONLY" = "Chỉ được xác minh";
+"COURSE_DATES.ITEMS_HIDDEN" = "Mục ẩn";
+"COURSE_DATES.ITEM_HIDDEN" = "Mục ẩn";
+"COURSE_DATES.TOAST_SUCCESS_TITLE" = "Ngày đến hạn đã được chuyển";
+"COURSE_DATES.TOAST_SUCCESS_MESSAGE" = "Ngày đáo hạn của bạn đã được thay đổi thành công để giúp bạn đi đúng hướng.";
+"COURSE_DATES.VIEW_ALL_DATES" = "Xem tất cả các ngày";
+"COURSE_DATES.SYNC_TO_CALENDAR" = "Đồng bộ hóa với lịch";
+"COURSE_DATES.SYNC_TO_CALENDAR_MESSAGE" = "Tự động đồng bộ hóa tất cả thời hạn và ngày hết hạn của khóa học này vào lịch của bạn.";
+"COURSE_DATES.ADD_CALENDAR_TITLE" = "Thêm lịch";
+"COURSE_DATES.REMOVE_CALENDAR_TITLE" = "Xóa lịch";
+"COURSE_DATES.ADD_CALENDAR_PROMPT" = "Bạn có muốn thêm lịch %@ &quot; %@ &quot; không?\n Bạn có thể chỉnh sửa hoặc xóa lịch khóa học bất kỳ lúc nào trong Lịch hoặc Cài đặt";
+"COURSE_DATES.REMOVE_CALENDAR_PROMPT" = "Bạn có muốn xóa lịch %@ &quot; %@ &quot; không?";
+"COURSE_DATES.DATES_ADDED_ALERT_MESSAGE" = "&quot; %@ &quot; đã được thêm vào lịch của bạn.";
+"COURSE_DATES.CALENDAR_SYNC_MESSAGE" = "Đang đồng bộ hóa lịch...";
+"COURSE_DATES.CALENDAR_VIEW_EVENTS" = "Xem sự kiện";
+"COURSE_DATES.CALENDAR_EVENTS_ADDED" = "Lịch khóa học của bạn đã được thêm vào.";
+"COURSE_DATES.CALENDAR_EVENTS_REMOVED" = "Lịch khóa học của bạn đã bị xóa.";
+"COURSE_DATES.CALENDAR_EVENTS" = "Sự kiện lịch";
+"COURSE_DATES.CALENDAR_OUT_OF_DATE" = "Lịch khóa học của bạn đã lỗi thời";
+"COURSE_DATES.CALENDAR_SHIFT_MESSAGE" = "Ngày khóa học của bạn đã được thay đổi và lịch khóa học của bạn không còn cập nhật với lịch trình mới nữa.";
+"COURSE_DATES.CALENDAR_SHIFT_PROMPT_UPDATE_NOW" = "Cập nhật bây giờ";
+"COURSE_DATES.CALENDAR_EVENTS_UPDATED" = "Lịch khóa học của bạn đã được cập nhật.";
+"COURSE_DATES.CALENDAR_PERMISSION_NOT_DETERMINED" = "%@ không có quyền lịch. Vui lòng vào cài đặt và cấp quyền cho lịch.";
+"COURSE_DATES.OPEN_SETTINGS" = "Mở cài đặt";
+"COURSE_DATES.SETTINGS" = "Cài đặt";
+
+"COURSE_DATES.RESET_DATE.ERROR_MESSAGE" = "Không thể thay đổi ngày của bạn. Vui lòng thử lại.";
+"COURSE_DATES.RESET_DATE.SUCCESS_MESSAGE" = "Ngày của bạn đã được chuyển thành công.";
+"COURSE_DATES.RESET_DATE.TITLE" = "Ngày khóa học";
+
+"COURSE.DUE_TODAY" = "Đến hạn hôm nay";
+"COURSE.DUE_TOMORROW" = "Hạn chót vào ngày mai";
+
+"COURSE.PROGRESS_COMPLETED" = "%@ trong số %@ bài tập đã hoàn thành";
+
+"COURSE.ALERT.CANCEL" = "Hủy bỏ";
+"COURSE.ALERT.CLOSE" = "Đóng";
+"COURSE.ALERT.REMOVE" = "Di dời";
+"COURSE.ALERT.DOWNLOAD" = "Tải về";
+"COURSE.ALERT.TRY_AGAIN" = "Thử lại";
+
+"COURSE.ALERT.REMOVE_TITLE" = "Xóa nội dung ngoại tuyến?";
+"COURSE.ALERT.CONFIRM_DOWNLOAD_TITLE" = "Xác nhận Tải xuống";
+"COURSE.ALERT.CONFIRM_DOWNLOAD_CELLULAR_TITLE" = "Tải xuống trên di động?";
+
+"COURSE.ALERT.REMOVE_DESCRIPTION" = "Xóa nội dung này sẽ giải phóng %@ .";
+"COURSE.ALERT.CONFIRM_DOWNLOAD_DESCRIPTION" = "Tải xuống %@ nội dung này sẽ lưu các khối có sẵn ngoại tuyến.";
+"COURSE.ALERT.CONFIRM_DOWNLOAD_CELLULAR_DESCRIPTION" = "Tải xuống nội dung này sẽ sử dụng %@ dữ liệu di động.";
+
+"COURSE.ERROR.DOWNLOAD_FAILED_TITLE" = "Tải xuống không thành công";
+"COURSE.ERROR.NO_INTERNET_CONNECTION_TITLE" = "Không có kết nối Internet";
+"COURSE.ERROR.WIFI_REQUIRED_TITLE" = "Yêu cầu có Wi-Fi";
+
+"COURSE.ERROR.DOWNLOAD_FAILED_DESCRIPTION" = "Thật không may, nội dung này không tải xuống được. Vui lòng thử lại sau hoặc báo cáo sự cố này.";
+"COURSE.ERROR.NO_INTERNET_CONNECTION_DESCRIPTION" = "Tải xuống nội dung này yêu cầu kết nối internet đang hoạt động. Vui lòng kết nối internet và thử lại.";
+"COURSE.ERROR.WIFI_REQUIRED_DESCRIPTION" = "Tải xuống nội dung này yêu cầu kết nối WiFi đang hoạt động. Vui lòng kết nối với mạng WiFi và thử lại.";
+
+"COURSE.STORAGE_ALERT.TITLE" = "Thiết bị lưu trữ đầy đủ";
+"COURSE.STORAGE_ALERT.DESCRIPTION" = "Thiết bị của bạn không đủ dung lượng trống để tải xuống nội dung này. Vui lòng giải phóng một ít dung lượng và thử lại.";
+"COURSE.STORAGE_ALERT.USED_AND_FREE" = "%@ đã sử dụng, %@ miễn phí";
+
+"COURSE.LARGEST_DOWNLOADS.TITLE" = "Tải xuống nhiều nhất";
+"COURSE.LARGEST_DOWNLOADS.DONE" = "Xong";
+"COURSE.LARGEST_DOWNLOADS.EDIT" = "Biên tập";
+"COURSE.LARGEST_DOWNLOADS.REMOVE_DOWNLOADS" = "Xóa tất cả các mục tải xuống";
+
+"COURSE.OFFLINE.VISIBLE" = "%@ %% của khóa học này có thể hiển thị trên thiết bị di động.";
+"COURSE.OFFLINE.DOWNLOADABLE" = "%@ %% của khóa học này có thể tải xuống.";
+"COURSE.OFFLINE.CAN_BE_COMPLETED" = "%@ %% khóa học này có thể được hoàn thành ngoại tuyến.";
+
+"COURSE.TOTAL_PROGRESS.DOWNLOADED" = "Đã tải xuống";
+"COURSE.TOTAL_PROGRESS.DOWNLOADING" = "Đang tải xuống";
+"COURSE.TOTAL_PROGRESS.AVALIABLE_TO_DOWNLOAD" = "Có sẵn để tải xuống";
+"COURSE.TOTAL_PROGRESS.READY_TO_DOWNLOAD" = "Sẵn sàng để tải xuống";
+
+"COURSE.OFFLINE.DOWNLOAD_ALL" = "Tải xuống tất cả";
+"COURSE.OFFLINE.CANCEL_COURSE_DOWNLOAD" = "Hủy khóa học Tải xuống";
+
+"COURSE.OFFLINE.YOU_CAN_DOWNLOAD" = "Bạn có thể tải xuống nội dung khóa học ngoại tuyến để học khi đang di chuyển, mà không cần kết nối internet hoặc sử dụng dữ liệu di động.";
+"COURSE.OFFLINE.YOU_CANT_DOWNLOAD" = "Hiện tại không có nội dung nào của khóa học này có thể tải xuống ngoại tuyến.";
+
+"OFFLINE.NOT_DOWNLOADED.TITLE" = "Thành phần này không được tải xuống";
+"OFFLINE.NOT_DOWNLOADED.DESCRIPTION" = "Khám phá các phần khác của khóa học này hoặc tải xuống khi bạn kết nối lại.";
+"OFFLINE.NOT_AVALIABLE.TITLE" = "Thành phần này hiện chưa có sẵn ngoại tuyến";
+"OFFLINE.NOT_AVALIABLE.DESCRIPTION" = "Khám phá các phần khác của khóa học này hoặc xem phần này khi bạn kết nối lại.";
+
+"CALENDAR_SYNC_STATUS.SYNCED" = "Đã đồng bộ hóa với Lịch";
+"CALENDAR_SYNC_STATUS.FAILED" = "Đồng bộ hóa lịch không thành công";
+"CALENDAR_SYNC_STATUS.OFFLINE" = "Ngoại tuyến";

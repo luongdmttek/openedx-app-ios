@@ -1,0 +1,12 @@
+/*
+  Localizable.strings
+  WhatsNew
+
+  Created by  Stepanok Ivan on 18.10.2023.
+  
+*/
+
+"TITLE" = "Có gì mới";
+"BUTTON_PREVIOUS" = "Trước";
+"BUTTON_NEXT" = "Tiếp theo";
+"BUTTON_DONE" = "Xong";

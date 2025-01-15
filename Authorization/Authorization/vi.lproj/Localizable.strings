@@ -1,0 +1,54 @@
+/*
+  Localizable.strings
+  Authorization
+
+  Created by Vladimir Chekyrta on 13.09.2022.
+  
+*/
+
+"SIGN_IN.LOG_IN_TITLE" = "Đăng nhập";
+"SIGN_IN.WELCOME_BACK" = "Chào mừng trở lại! Đăng nhập để truy cập các khóa học của bạn.";
+"SIGN_IN.EMAIL" = "Email";
+"SIGN_IN.EMAIL_OR_USERNAME" = "Email hoặc username";
+"SIGN_IN.PASSWORD" = "Mật khẩu";
+"SIGN_IN.FORGOT_PASS_BTN" = "Quên mật khẩu?";
+"SIGN_IN.AGREEMENT" = "Bằng cách đăng nhập vào ứng dụng này, bạn đồng ý với [ %@ Thỏa thuận cấp phép người dùng cuối]( %@ ) và [ %@ Điều khoản dịch vụ và Mã danh dự]( %@ ) và bạn thừa nhận rằng %@ và mỗi Thành viên xử lý dữ liệu cá nhân của bạn trong\n theo [Chính sách quyền riêng tư.]( %@ )";
+"SIGN_IN.SSO_HEADING" = "Hãy bắt đầu ngay hôm nay để xây dựng sự nghiệp của bạn một cách tự tin";
+"SIGN_IN.SSO_SUPPORTING_TEXT" = "Một bộ chương trình kiến thức và trao quyền tích hợp để phát triển các thành phần của khu vực tài trợ và người lao động của khu vực này";
+"SIGN_IN.SSO_LOG_IN_TITLE" = "Đăng nhập";
+"SIGN_IN.SSO_LOG_IN_SUBTITLE" = "Đăng nhập thông qua dịch vụ đăng nhập thống nhất quốc gia";
+
+"ERROR.INVALID_EMAIL_ADDRESS" = "địa chỉ email không hợp lệ";
+"ERROR.INVALID_PASSWORD_LENGHT" = "Độ dài mật khẩu không hợp lệ";
+"ERROR.ACCOUNT_NOT_REGISTERED" = "Tài khoản %@ này không được liên kết với bất kỳ tài khoản %@ nào. Xin mời đăng ký.";
+"ERROR.INVALID_EMAIL_ADDRESS_OR_USERNAME" = "Email hoặc username không hợp lệ";
+"ERROR.DISABLED_ACCOUNT" = "Tài khoản của bạn bị vô hiệu hóa. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được hỗ trợ.";
+
+"SIGN_UP.SUBTITLE" = "Tạo một tài khoản để bắt đầu học ngay hôm nay!";
+"SIGN_UP.CREATE_ACCOUNT_BTN" = "Tạo tài khoản";
+"SIGN_UP.HIDE_FIELDS" = "Ẩn các trường tùy chọn";
+"SIGN_UP.SHOW_FIELDS" = "Hiển thị các trường tùy chọn";
+"SIGN_UP.SUCCESS_SIGNIN_LABEL" = "Bạn đã đăng nhập thành công.";
+"SIGN_UP.SUCCESS_SIGNIN_SUBLABEL" = "Chúng tôi chỉ cần thêm một chút thông tin trước khi bạn bắt đầu học.";
+"SIGN_UP.AGREEMENT" = "Bằng cách tạo tài khoản, bạn đồng ý với [ %@ Thỏa thuận cấp phép người dùng cuối]( %@ ) và [ %@ Điều khoản dịch vụ và Mã danh dự]( %@ ) và bạn thừa nhận rằng %@ và mỗi Thành viên xử lý dữ liệu cá nhân của bạn theo [ Chính sách bảo mật .]( %@ )";
+"SIGN_UP.MARKETING_EMAIL_TITLE" = "Tôi đồng ý rằng %@ có thể gửi cho tôi các tin nhắn tiếp thị.";
+
+"FORGOT.TITLE" = "Quên mật khẩu";
+"FORGOT.DESCRIPTION" = "Vui lòng nhập địa chỉ email đăng nhập hoặc khôi phục của bạn bên dưới và chúng tôi sẽ gửi cho bạn email kèm theo hướng dẫn.";
+"FORGOT.REQUEST" = "Đặt lại mật khẩu";
+"FORGOT.CHECK_TITLE" = "Kiểm tra email của bạn";
+"FORGOT.CHECK_Description" = "Chúng tôi đã gửi hướng dẫn khôi phục mật khẩu tới email của bạn ";
+
+"SIGN_IN_WITH" = "Đăng nhập với";
+"REGISTER_WITH" = "Đăng ký với";
+"APPLE" = "Apple";
+"GOOGLE" = "Google";
+"FACEBOOK" = "Facebook";
+"MICROSOFT" = "Microsoft";
+"OR" = "Hoặc";
+
+"STARTUP.INFO_MESSAGE" = "Các khóa học và chương trình từ các trường đại học tốt nhất thế giới trong túi của bạn.";
+"STARTUP.SEARCH_TITLE" = "Bạn muốn học gì?";
+"STARTUP.SEARCH_PLACEHOLDER" = "Tìm kiếm hơn 3000 khóa học của chúng tôi";
+"STARTUP.EXPLORE_ALL_COURSES" = "Khám phá tất cả các khóa học";
+"STARTUP.TITLE" = "Bắt đầu";
