@@ -67,7 +67,7 @@ public struct ManageAccountView: View {
                             } else {
                                 userAvatar
                                 editProfileButton
-                                deleteAccount
+                                // deleteAccount
                             }
                         }
                     }
